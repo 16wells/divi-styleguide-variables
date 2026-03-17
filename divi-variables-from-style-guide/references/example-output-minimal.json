@@ -1,0 +1,76 @@
+{
+  "context": "et_builder",
+  "data": [],
+  "presets": [],
+  "global_colors": [
+    [
+      "gcid-color-brand-navy",
+      { "color": "#1A2332", "status": "active", "label": "Brand · Navy" }
+    ],
+    [
+      "gcid-color-brand-blue",
+      { "color": "#0066FF", "status": "active", "label": "Brand · Blue" }
+    ]
+  ],
+  "global_variables": [
+    {
+      "id": "gvid-color-brand-navy",
+      "label": "Color · Brand · Navy",
+      "value": "#1A2332",
+      "order": "",
+      "status": "active",
+      "lastUpdated": "2026-03-17T00:00:00.000Z",
+      "variableType": "colors",
+      "type": "colors",
+      "groupKey": "colors"
+    },
+    {
+      "id": "gvid-font-heading-family",
+      "label": "Font · Heading · Family",
+      "value": "Roboto",
+      "order": "",
+      "status": "active",
+      "lastUpdated": "2026-03-17T00:00:00.000Z",
+      "variableType": "fonts",
+      "type": "fonts",
+      "groupKey": "fonts"
+    },
+    {
+      "id": "gvid-type-h1-size",
+      "label": "Type · H1 · Size",
+      "value": "48px",
+      "order": "",
+      "status": "active",
+      "lastUpdated": "2026-03-17T00:00:00.000Z",
+      "variableType": "numbers",
+      "type": "numbers",
+      "groupKey": "type"
+    },
+    {
+      "id": "gvid-space-2",
+      "label": "Space · 2",
+      "value": "16px",
+      "order": "",
+      "status": "active",
+      "lastUpdated": "2026-03-17T00:00:00.000Z",
+      "variableType": "numbers",
+      "type": "numbers",
+      "groupKey": "space"
+    },
+    {
+      "id": "gvid-link-site",
+      "label": "Link · Site",
+      "value": "https://example.com",
+      "order": "",
+      "status": "active",
+      "lastUpdated": "2026-03-17T00:00:00.000Z",
+      "variableType": "links",
+      "type": "links",
+      "groupKey": "links"
+    }
+  ],
+  "canvases": [],
+  "images": [],
+  "thumbnails": []
+}
+
