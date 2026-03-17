@@ -1,6 +1,6 @@
 ---
 name: divi-variables-from-style-guide
-description: Generate a Divi 5 Global Variables import JSON (global_colors + global_variables). Use when a user asks to convert a style guide, brand guidelines, or design tokens (JSON/CSV/table) into Divi 5 variables, or asks for an "et_builder" Global Variables JSON to import into Divi.
+description: "Generate a Divi 5 Global Variables import JSON (global_colors + global_variables). Use when a user asks to convert a style guide, brand guidelines, or design tokens (JSON/CSV/table) into Divi 5 variables, or asks for an \"et_builder\" Global Variables JSON to import into Divi."
 license: MIT
 compatibility: Works in Claude.ai and Claude Code. No external tools required.
 metadata:

@@ -12,7 +12,7 @@ If you can supply tokens in this table format, the skill can generate Divi varia
 ## Example
 
 | name | type | value | notes |
-|---|---|---|---|
+|---|---|------|---|
 | `color.brand.navy` | `colors` | `#1A2332` | Primary background |
 | `color.semantic.success` | `colors` | `#00D47E` | Success state |
 | `font.heading.family` | `fonts` | `Roboto` | Headings |
