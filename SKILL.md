@@ -1,16 +1,6 @@
 ---
 name: divi-variables-from-style-guide
-description: Generate a Divi 5 Global Variables import JSON (global_colors + global_variables) from a style guide or design tokens for import into Divi 5.
-license: MIT
-version: 1.1.0
-category: document-creation
-tags:
-  - divi
-  - divi-5
-  - design-system
-  - global-variables
-  - tokens
-  - json
+description: Generates a Divi 5 Global Variables import JSON (global_colors + global_variables) from a style guide or design tokens. Use when converting brand guidelines or token tables/JSON into a Divi 5 importable file (context: "et_builder").
 ---
 
 # Divi 5 Global Variables Generator (from Style Guides / Tokens)
